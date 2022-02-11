@@ -16,3 +16,6 @@ Conceitos básicos de Pyhon
 - Ultilizar os conceitos de dicionários e listas para imprimir a informação desejada.
  
 
+### Gerador_de_QR
+
+Sou apaixonado pelas facilidades de um QR code e observei que posso utilizar essa ferramenta para consultas rápidas do status de determinado equipamento de forma rápida, calibração e manutenção.
