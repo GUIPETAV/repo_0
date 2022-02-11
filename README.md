@@ -7,7 +7,7 @@ Nessas notas eu coloco um pouco da motivação e o "problema que eu desejava res
 
 ### API_TEMPERATURA 
 
-Eu estava pensando em montar um gráfico com a variação de maré de uma determinada localidadde. Infelizmente não encontrei uma API funcional, Portanto pesquisei a https://openweathermap.org/api e utilizei testar e criar.
+Eu estava pensando em montar um gráfico com a variação de maré de uma determinada localidadde. Infelizmente não encontrei uma API funcional, Portanto pesquisei a https://openweathermap.org/api que utilizei para testar, pretendo criar uma dashboard ou alguma aplicação para implementar uma atualização de dados climáticos em tempo real.
 
 Conceitos básicos de Pyhon
 
