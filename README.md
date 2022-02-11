@@ -11,8 +11,7 @@ Eu estava pensando em montar um gráfico com a variação de maré de uma determ
 
 Conceitos básicos de Pyhon
 
-Importar API  com a biblioteca Requests
-
+-Importar API  com a biblioteca Requests
 - Criar variáveis 
 - Ultilizar os conceitos de dicionários e listas para imprimir a informação desejada.
  
